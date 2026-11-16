@@ -1,6 +1,6 @@
 // disciplina: Paradigmas de programação 
-// discente: Layla Pimentel de Sousa 
-// matricula: 20240005439
+// discente: Layla Pimentel de Sousa matricula: 20240005439
+
 
 // DEFINIÇÃO DAS CLASSES
 INICIO
